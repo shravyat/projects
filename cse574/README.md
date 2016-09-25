@@ -11,12 +11,14 @@ The Neural Network we have built has one hidden layer and has regularization to 
 
 
 PA2 - Classiﬁcation and Regression - Linear Regression and Ridge Regression
+
 1.Implemented Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysis (QDA) on  medical data set, provided in the ﬁle “diabetes.pickle” 
 2.Implemented - Linear Regression i.e., ordinary least squares method to estimate regression parameters by minimizing the squared loss.
 3.Implemented parameter estimation for ridge regression by minimizing the regularized squared loss.
 
 
 PA3 - Classiﬁcation and Regression - Logistic Regression and Support Vector Machines
+
 1.Implemented Logistic Regression and Multi-Class Logistic Regression on the mnist data(Handwritten Digits)
 2.Implemented Support Vector Machines,  discriminative classifie for the classification of Handwritten Digits.
 
